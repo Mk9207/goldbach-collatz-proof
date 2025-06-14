@@ -1,12 +1,6 @@
 # Constructive Proof of the Goldbach and Collatz Conjectures
 
-This repository contains the unified constructive proof of the Goldbach and Collatz conjectures. This approach utilizes AI-supported mathematical reasoning, structured number classification, and reduction functions.
-
-## Contents
-
-- `main.tex` - Main LaTeX file of the unified proof.
-- `sections/` - (Reserved) Future modular expansions or separated proofs.
-- `images/` - (Reserved) Diagrams or visualizations supporting the structure.
+This repository contains a unified constructive proof of both the Goldbach and Collatz conjectures. The approach utilizes AI-supported mathematical reasoning, structured number classification, and reduction functions.
 
 ## Summary
 
