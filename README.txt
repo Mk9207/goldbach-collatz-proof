@@ -1,0 +1,1 @@
+This folder is reserved for future figures or diagrams illustrating the proof structure.
