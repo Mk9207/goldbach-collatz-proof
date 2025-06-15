@@ -14,6 +14,12 @@
 
 # 🔢 Constructive Proof of the Goldbach and Collatz Conjectures
 
+![Status](https://img.shields.io/badge/status-peer--review--ready-brightgreen)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue)
+![LaTeX](https://img.shields.io/badge/format-LaTeX-orange)
+![Proof](https://img.shields.io/badge/proof-constructive-critical)
+![AI Support](https://img.shields.io/badge/AI--assisted-yes-blueviolet)
+
 > A unified and constructive proof of two major number-theoretic conjectures, built through collaboration between human insight and AI reasoning.
 
 ## 🧩 Overview | 概要
