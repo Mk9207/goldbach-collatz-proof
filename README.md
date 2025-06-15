@@ -1,3 +1,17 @@
+---
+
+## 🔗 Quick Navigation
+
+- 🔸 [File Structure](#-file-structure)
+- 🔸 [Main Paper (LaTeX)](#-main-latex-file)
+- 🔸 [Proof of Goldbach](sections/proof_goldbach.tex)
+- 🔸 [Proof of Collatz](sections/proof_collatz.tex)
+- 🔸 [Definitions](sections/definitions.tex)
+- 🔸 [Theorems](sections/theorem.tex)
+- 🔸 [Conclusion](sections/conclusion.tex)
+
+---
+
 # 🔢 Constructive Proof of the Goldbach and Collatz Conjectures
 
 > A unified and constructive proof of two major number-theoretic conjectures, built through collaboration between human insight and AI reasoning.
