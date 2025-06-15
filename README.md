@@ -59,3 +59,11 @@ Feel free to reuse, extend, or translate with proper credit.
 - ✅ Constructive proof of **Collatz Conjecture** complete  
 - ⏳ Peer review in progress  
 - 📤 arXiv submission pending final sponsor approval
+
+## 📁 File Structure
+
+This repository is organized as follows:
+
+📁 goldbach-collatz-proof/ ├── 📄 README.md               # Project overview and usage instructions ├── 📄 README.txt              # Text version of the overview (backup/reference) ├── 📄 変更ログ.md              # Log of major changes and updates (Japanese) ├── 📄 メイン.tex               # Main LaTeX file for the unified proof ├── 📁 sections/               # LaTeX sections for introduction, definitions, proofs │   ├── introduction.tex │   ├── definitions.tex │   ├── theorem.tex │   ├── proof_goldbach.tex │   ├── proof_collatz.tex │   └── conclusion.tex
+
+Each file is modular and clearly separated by function, ensuring transparency and reproducibility of the constructive proofs.
