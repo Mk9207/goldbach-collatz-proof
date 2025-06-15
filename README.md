@@ -81,3 +81,16 @@ This repository is organized as follows:
 📁 goldbach-collatz-proof/ ├── 📄 README.md               # Project overview and usage instructions ├── 📄 README.txt              # Text version of the overview (backup/reference) ├── 📄 変更ログ.md              # Log of major changes and updates (Japanese) ├── 📄 メイン.tex               # Main LaTeX file for the unified proof ├── 📁 sections/               # LaTeX sections for introduction, definitions, proofs │   ├── introduction.tex │   ├── definitions.tex │   ├── theorem.tex │   ├── proof_goldbach.tex │   ├── proof_collatz.tex │   └── conclusion.tex
 
 Each file is modular and clearly separated by function, ensuring transparency and reproducibility of the constructive proofs.
+
+---
+
+## 🧠 Topics & Scope
+
+This repository is tagged with the following key topics to enhance discoverability and clarify its mathematical and technological scope:
+
+- 🧮 **Constructive Proof**: All results are derived constructively, enabling reproducibility and logical transparency.
+- 🧠 **AI-Assisted Mathematics**: Proofs and structure are developed in collaboration with AI systems to maximize efficiency and insight.
+- 🌐 **arXiv Ready**: Prepared for submission to arXiv, with modular LaTeX formatting and documented proof trails.
+- 🔁 **Unified Conjectures**: Addresses both the Goldbach and Collatz conjectures in a single cohesive framework.
+
+Explore the GitHub [Topics](https://github.com/topics) for more on these areas.
