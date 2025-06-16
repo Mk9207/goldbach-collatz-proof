@@ -1,17 +1,3 @@
----
-
-## 🔗 Quick Navigation
-
-- 🔸 [File Structure](#-file-structure)
-- 🔸 [Main Paper (LaTeX)](#-main-latex-file)
-- 🔸 [Proof of Goldbach](sections/proof_goldbach.tex)
-- 🔸 [Proof of Collatz](sections/proof_collatz.tex)
-- 🔸 [Definitions](sections/definitions.tex)
-- 🔸 [Theorems](sections/theorem.tex)
-- 🔸 [Conclusion](sections/conclusion.tex)
-
----
-
 # 🔢 Constructive Proof of the Goldbach and Collatz Conjectures
 
 ![Status](https://img.shields.io/badge/status-peer--review--ready-brightgreen)
@@ -21,6 +7,22 @@
 ![AI Support](https://img.shields.io/badge/AI--assisted-yes-blueviolet)
 
 > A unified and constructive proof of two major number-theoretic conjectures, built through collaboration between human insight and AI reasoning.
+
+---
+
+## 📚 Table of Contents
+
+- [🧩 Overview | 概要](#-overview--概要)
+- [🧠 Constructive Methods | 構成的手法](#-constructive-methods--構成的手法)
+- [📄 Files Included | 含まれるファイル](#-files-included--含まれるファイル)
+- [✍ Author | 著者](#-author--著者)
+- [📜 License](#-license)
+- [🧭 Related Links](#-related-links)
+- [✅ Status](#-status)
+- [📁 File Structure](#-file-structure)
+- [🧠 Topics & Scope](#-topics--scope)
+
+---
 
 ## 🧩 Overview | 概要
 
@@ -36,6 +38,8 @@ This repository provides a **fully constructive proof** of the following two maj
 
 These proofs emphasize explicit structure, constructive classification, and algorithmic reasoning, supported by AI-assisted elimination and formal modeling techniques.
 
+---
+
 ## 🧠 Constructive Methods | 構成的手法
 
 - **Explicit Number Classification**  
@@ -49,12 +53,16 @@ These proofs emphasize explicit structure, constructive classification, and algo
 
 すべてのステップが構成的に明示され、再現可能性と合流性を持ちます。AIとの協働により、効率的な証明フローが実現しました。
 
+---
+
 ## 📄 Files Included | 含まれるファイル
 
 - `main.tex`: LaTeX source of the unified proof  
 - `proof_assets/`: Supporting diagrams, algorithms, and lemma breakdowns  
 - `final_proof.pdf`: PDF version of the complete proof  
-- `README.md`: This file
+- `README.md`: This file  
+
+---
 
 ## ✍ Author | 著者
 
@@ -62,10 +70,14 @@ These proofs emphasize explicit structure, constructive classification, and algo
 In collaboration with GPT-based AI systems.  
 本研究はAIとの協働によって構成的数論の限界に挑戦しています。
 
+---
+
 ## 📜 License
 
 This work is licensed under **Creative Commons BY 4.0**  
 Feel free to reuse, extend, or translate with proper credit.
+
+---
 
 ## 🧭 Related Links
 
@@ -73,12 +85,16 @@ Feel free to reuse, extend, or translate with proper credit.
 - note記事一覧: [note.com/shiny_hebe5818](https://note.com/shiny_hebe5818/portal)  
 - 論文PDF（準備中）
 
+---
+
 ## ✅ Status
 
 - ✅ Constructive proof of **Goldbach Conjecture** complete  
 - ✅ Constructive proof of **Collatz Conjecture** complete  
 - ⏳ Peer review in progress  
 - 📤 arXiv submission pending final sponsor approval
+
+---
 
 ## 📁 File Structure
 
