@@ -1,3 +1,15 @@
+## 🔗 Quick Navigation
+
+- 🔸 [File Structure](#-file-structure)
+- 🔸 [Main Paper (LaTeX)](#-main-latex-file)
+- 🔸 [Proof of Goldbach](sections/proof_goldbach.tex)
+- 🔸 [Proof of Collatz](sections/proof_collatz.tex)
+- 🔸 [Definitions](sections/definitions.tex)
+- 🔸 [Theorems](sections/theorem.tex)
+- 🔸 [Conclusion](sections/conclusion.tex)
+
+---
+
 # 🔢 Constructive Proof of the Goldbach and Collatz Conjectures
 
 ![Status](https://img.shields.io/badge/status-peer--review--ready-brightgreen)
@@ -7,20 +19,6 @@
 ![AI Support](https://img.shields.io/badge/AI--assisted-yes-blueviolet)
 
 > A unified and constructive proof of two major number-theoretic conjectures, built through collaboration between human insight and AI reasoning.
-
----
-
-## 📚 Table of Contents
-
-- [🧩 Overview | 概要](#-overview--概要)
-- [🧠 Constructive Methods | 構成的手法](#-constructive-methods--構成的手法)
-- [📄 Files Included | 含まれるファイル](#-files-included--含まれるファイル)
-- [✍ Author | 著者](#-author--著者)
-- [📜 License](#-license)
-- [🧭 Related Links](#-related-links)
-- [✅ Status](#-status)
-- [📁 File Structure](#-file-structure)
-- [🧠 Topics & Scope](#-topics--scope)
 
 ---
 
@@ -55,12 +53,20 @@ These proofs emphasize explicit structure, constructive classification, and algo
 
 ---
 
+## 📄 View the Full Paper
+
+You can directly view the complete constructive proof (PDF):
+
+👉 [final_proof.pdf](./final_proof.pdf)
+
+---
+
 ## 📄 Files Included | 含まれるファイル
 
 - `main.tex`: LaTeX source of the unified proof  
 - `proof_assets/`: Supporting diagrams, algorithms, and lemma breakdowns  
 - `final_proof.pdf`: PDF version of the complete proof  
-- `README.md`: This file  
+- `README.md`: This file
 
 ---
 
@@ -100,7 +106,18 @@ Feel free to reuse, extend, or translate with proper credit.
 
 This repository is organized as follows:
 
-📁 goldbach-collatz-proof/ ├── 📄 README.md               # Project overview and usage instructions ├── 📄 README.txt              # Text version of the overview (backup/reference) ├── 📄 変更ログ.md              # Log of major changes and updates (Japanese) ├── 📄 メイン.tex               # Main LaTeX file for the unified proof ├── 📁 sections/               # LaTeX sections for introduction, definitions, proofs │   ├── introduction.tex │   ├── definitions.tex │   ├── theorem.tex │   ├── proof_goldbach.tex │   ├── proof_collatz.tex │   └── conclusion.tex
+📁 goldbach-collatz-proof/  
+├── 📄 README.md               # Project overview and usage instructions  
+├── 📄 README.txt              # Text version of the overview (backup/reference)  
+├── 📄 変更ログ.md              # Log of major changes and updates (Japanese)  
+├── 📄 メイン.tex               # Main LaTeX file for the unified proof  
+├── 📁 sections/               # LaTeX sections for introduction, definitions, proofs  
+│   ├── introduction.tex  
+│   ├── definitions.tex  
+│   ├── theorem.tex  
+│   ├── proof_goldbach.tex  
+│   ├── proof_collatz.tex  
+│   └── conclusion.tex  
 
 Each file is modular and clearly separated by function, ensuring transparency and reproducibility of the constructive proofs.
 
@@ -110,9 +127,9 @@ Each file is modular and clearly separated by function, ensuring transparency an
 
 This repository is tagged with the following key topics to enhance discoverability and clarify its mathematical and technological scope:
 
-- 🧮 **Constructive Proof**: All results are derived constructively, enabling reproducibility and logical transparency.
-- 🧠 **AI-Assisted Mathematics**: Proofs and structure are developed in collaboration with AI systems to maximize efficiency and insight.
-- 🌐 **arXiv Ready**: Prepared for submission to arXiv, with modular LaTeX formatting and documented proof trails.
+- 🧮 **Constructive Proof**: All results are derived constructively, enabling reproducibility and logical transparency.  
+- 🧠 **AI-Assisted Mathematics**: Proofs and structure are developed in collaboration with AI systems to maximize efficiency and insight.  
+- 🌐 **arXiv Ready**: Prepared for submission to arXiv, with modular LaTeX formatting and documented proof trails.  
 - 🔁 **Unified Conjectures**: Addresses both the Goldbach and Collatz conjectures in a single cohesive framework.
 
 Explore the GitHub [Topics](https://github.com/topics) for more on these areas.
